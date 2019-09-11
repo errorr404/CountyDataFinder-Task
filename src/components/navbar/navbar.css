@@ -7,4 +7,6 @@
     color: #ffffff;
     background-color: #605A5A;
     padding: 1rem;
+    position: sticky;
+    top: 0;
 }

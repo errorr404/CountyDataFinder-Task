@@ -1,7 +1,9 @@
 .home{
     display: flex;
     flex-direction: column;
-    height: 100vh;
     width: 100%;
     background-color:rgb(226, 224, 221);
+    color: #2F2525;
+    max-width: 700px;
+    margin: 0 auto;
 }
