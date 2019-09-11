@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+.navbar{
+    display: flex;
+    justify-content: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 1rem;
+    color: #ffffff;
+    background-color: #605A5A;
+    padding: 1rem;
+}
